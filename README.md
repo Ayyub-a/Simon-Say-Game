@@ -14,7 +14,7 @@ CSS: Styling for the game interface, animations, and color transitions.<br>
 JavaScript: Logic for generating the random sequence, user input handling, and game progression.<br>
 
 # How to Play:
-Click the "Start" button to begin the game.<br>
+Press any button to start the game.<br>
 Watch the color sequence appear.<br>
 Click the buttons in the same order as shown in the sequence.<br>
 The game continues as long as you correctly replicate the sequence.<br>
